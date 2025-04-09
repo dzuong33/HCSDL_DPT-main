@@ -1,0 +1,45 @@
+# Ignore similarity search script
+assignment/similarity_search.py
+
+# Ignore documentation folders
+assignment/tài liệu/
+assignment/tai_lieu/
+assignment/docs/
+assignment/documentation/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Database files
+*.db
+*.sqlite3
+
+# Large data files
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.zip
+*.tar
+*.rar 
